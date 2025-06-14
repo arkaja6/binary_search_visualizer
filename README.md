@@ -5,6 +5,9 @@ This project demonstrates the application of **Data Structures & Algorithms (DSA
 
 ---
 
+## 🔗 Live Preview
+[Click here to view the live app](https://arkaja6.github.io/binary_search_visualizer/)
+
 ## 🖼️ Preview
 
 Here’s how the Binary Search Visualizer looks:
