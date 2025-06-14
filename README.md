@@ -5,9 +5,11 @@ This project demonstrates the application of **Data Structures & Algorithms (DSA
 
 ---
 
-## 📸 Preview
+## 🖼️ Preview
 
-![Binary Search Visualizer Screenshot](./screenshot.png) <!-- Optional: Replace or remove if no screenshot yet -->
+Here’s how the Binary Search Visualizer looks:
+
+![Binary Search Visualizer Screenshot](images/screenshot.png)
 
 ---
 
